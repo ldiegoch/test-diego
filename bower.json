@@ -1,0 +1,29 @@
+{
+  "name": "test-diego",
+  "version": "1.0.0",
+  "authors": [
+    "Luis Diego Cordero <ldiegoch@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "test-diego.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/ldiegoch/test-diego/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
